@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techpradeesh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML,CSS,React,Kotlin
+- 🌱 I’m currently learning HTML,CSS,Flutter,Dart
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ...techpradeesh@yahoo.co.in
 
