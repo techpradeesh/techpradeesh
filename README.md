@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techpradeesh
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML,CSS,Flutter,Dart
+- 👀 I’m interested in Programming, Technical Support.
+- 🌱 I’m currently learning Django, RESTAPI's, Flask, webhooks, Python etc
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ...techpradeesh@yahoo.co.in
 
